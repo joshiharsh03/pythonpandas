@@ -1,0 +1,1 @@
+You will find the same syntax behind each program with a little variation (like using a variable k to increment value within the loop and to print it); the rest is the same.
